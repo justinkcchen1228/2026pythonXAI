@@ -1,7 +1,7 @@
 
 ---
 
-# 🐍 Python 基礎學習筆記（國二版）
+# 🐍 Python & Streamlit 筆記
 
 ---
 
